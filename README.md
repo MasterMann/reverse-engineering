@@ -27,6 +27,7 @@ A curated list of awesome reversing resources
 *Reverse Engineering Books*
 
 * [The IDA Pro Book](http://amzn.to/2jTicOg)
+* [Radare2 Book](https://www.gitbook.com/book/radare/radare2book/details)
 * [Reverse Engineering for Beginners](http://beginners.re/)
 * [The Art of Assembly Language](http://amzn.to/2jlxTNp)
 * [Practical Reverse Engineering](http://amzn.to/2iusXRW)
@@ -34,6 +35,7 @@ A curated list of awesome reversing resources
 * [Practical Malware Analysis](http://amzn.to/2jljYqE)
 * [Malware Analyst's Cookbook](http://amzn.to/2iWPJDd)
 * [Gray Hat Hacking](http://amzn.to/2jllIAi)
+* [Access Denied](https://github.com/shaykhsiddique/academic-/blob/master/CSE107/Access%20Denied.pdf)
 * [The Art of Memory Forensics](http://amzn.to/2jMJQs0)
 * [Hacking: The Art of Exploitation](http://amzn.to/2jnkV19)
 * [Fuzzing for Software Security](http://amzn.to/2jMKCWc)
@@ -112,6 +114,7 @@ A curated list of awesome reversing resources
 *Disassemblers*
 
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
+* [GHIDRA](https://ghidra-sre.org/)
 * [Binary Ninja](https://binary.ninja/)
 * [Radare](http://www.radare.org/r/)
 * [Hopper](http://hopperapp.com/)
